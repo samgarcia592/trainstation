@@ -2,10 +2,11 @@
 
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyCUa3OmzBQAV9MHxQg6Pgl2s5533V5qjEI",
-    authDomain: "coder-bay-fee9d.firebaseapp.com",
-    databaseURL: "https://coder-bay-fee9d.firebaseio.com",
-    storageBucket: "coder-bay-fee9d.appspot.com"
+  apiKey: "AIzaSyB4Ws5gPo9gNW9x90uXnX6XZ4uqE5QjkUY",
+  authDomain: "countdownclicker.firebaseapp.com",
+  databaseURL: "https://countdownclicker.firebaseio.com",
+  storageBucket: "countdownclicker.appspot.com",
+  messagingSenderId: "435604262542"
   };
   
   firebase.initializeApp(config);
